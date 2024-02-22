@@ -16,7 +16,7 @@ document.head.innerHTML = `<style>* {
 }</style>`;
 
 document.body.innerHTML = `
-<div class="yahahaha">
+<div class="hacked">
   <h1>Hemker disini</h1>
 </div>
 `;
